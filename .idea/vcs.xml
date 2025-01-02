@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/15ball/AI_Virtual_Painter_2.0" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/15ball/AI_virtual_Painter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/15ball/Virtual-Painter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/15ball/virtual-paint" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DesignPattern3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PyPaint" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/VirtualKeyboard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/virtual-paint" vcs="Git" />
