@@ -103,4 +103,8 @@ ani = FuncAnimation(fig, update_orbit, frames=np.arange(0, 100), interval=50)
 
 # Отображаем результат
 plt.tight_layout()
+<<<<<<< HEAD
 plt.show()
+=======
+plt.show()
+>>>>>>> origin/main
